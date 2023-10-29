@@ -3,3 +3,6 @@
 ################################################################################
 
 /src/DataEditTool/DataEditTool/obj
+/src/DataEditTool/Libs/bin/Debug/net6.0
+/src/DataEditTool/Libs/obj
+/src/DataEditTool/DataEditTool/bin/Debug/net6.0-windows
